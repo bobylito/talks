@@ -1,0 +1,1 @@
+actions.colorIt.fCall( theNewColor );
